@@ -9,7 +9,7 @@
   "CONTACT":{
     "ABOUT_US":"About us",
     "CONTACT_US":"Contact us",
-    "COUNTRY":"Address, Yerevan, Isahakyan 8",
+    "COUNTRY":"Address: Isahakyan 8, Yerevan, Armenia",
     "FIRST_NAME":"First Name",
     "LAST_NAME":"Last Name",
     "PHONE":"Phone",
@@ -21,17 +21,17 @@
     "TOO_LONG": "Text Too Long"
   },
   "ABOUT":{
-    "TITLE":"Welcome to Sew.am",
-    "TEXT":"If you want to make computer embroidery, we are glad to cooperate with you. We accept both individual and large orders. We make embroidery on any type of garments, including hats, jeans, shoes, sports uniforms, bedding, scarfs, leather goods, etc. We work with newest cars, brother entrepreneur pro pr 1000e, Jack CTF1201, which are the best are considered to be embroidered eagles, and thanks to it they provide high quality. The images and logos you make are made by our experienced professionals, with professional computer embroidery programs. For details and questions, you can call or write to our e-mail address and we'll be glad to help you."
+    "TITLE":"Welcome to",
+    "TEXT":"Need some machine embroidery? We arе eager to cooperate with you. We deal both with retail and wholesale orders. We embroider on any type of clothing, including:  headdresses (hats, caps), jeans, shoes, uniforms, as well as bedding, blankets, clothing, leather items etc. We work with up-to-date machines (brother entrepreneur pro pr 1000e), which are considered to be the best in their class all over the world providing high quality. The designs and logotypes are made with professional embroidery programs. Please, feel free to contact us in case of questions or requirements."
   },
   "FAQ":{
-    "TITLE":"Frequently Asked Questions",
+    "TITLE":"Frequently Asked Questions (FAQ)",
     "TEXT_1_1":"How is the price determined?",
-    "TEXT_1_2":"It is determined by the complexity, size and quantity of the order, the price of the design (image, logo, submitted by you)",
-    "TEXT_2_1":"How long will your order be ready?",
-    "TEXT_2_2":"Due to the fact that the orders of the newest car and professional personnel are carried out very quickly, even on the day of the order",
-    "TEXT_3_1":"What formats can be sent",
-    "TEXT_3_2":"Any image you sent can be embroidered",
+    "TEXT_1_2":"The price is determined by considering the design, complication, quantity and size of the logotype or picture.",
+    "TEXT_2_1":"How long does it take for the order to be ready?",
+    "TEXT_2_2":"The orders are accomplished in the possible short period due to the new embroidery machines, even on the day of making the order.",
+    "TEXT_3_1":"What kind of pictures must be sent to be appropriate for embroidery?",
+    "TEXT_3_2":"Any picture You send is real to embroider.",
     "QUESTION":"Question։ ",
     "ANSWER":"Answer: "
   },

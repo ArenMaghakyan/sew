@@ -29,6 +29,7 @@ html, body {
 .font-bold {
   font-weight: 700;
 }
+
 /* ========================= END OF FONTS WEIGHT ========================= */
 
 /* ========================= BUTTONS ========================= */
@@ -68,6 +69,7 @@ html, body {
     color: #E13838 !important;
   }
 }
+
 .button-green {
   background: $green;
   border-color: $green;
@@ -75,16 +77,16 @@ html, body {
     background: $green !important;
     border-color: $green !important;
   }
- }
+}
 
- .button-green-dark {
-  background: #038307 ;
-  border-color: #038307 ;
+.button-green-dark {
+  background: #038307;
+  border-color: #038307;
   &:hover, &:focus {
     background: #038307 !important;
     border-color: #038307 !important;
   }
- }
+}
 
 .button-green {
   background: $green;
@@ -110,7 +112,7 @@ html, body {
   @include border-radius(30px);
 }
 
-.center{
+.center {
   display: flex;
   justify-content: center;
 }
@@ -118,10 +120,12 @@ html, body {
 /* ========================= END OF BUTTONS ========================= */
 
 .form-link {
-  cursor: pointer;
-  color: #2E5676;
-  font-size: 0.875rem;
   margin-bottom: 42px;
+  a {
+    cursor: pointer;
+    color: $light-gray;
+    font-size: 0.875rem;
+  }
 }
 
 // @media (min-width: 1570px) {
