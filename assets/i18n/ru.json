@@ -4,7 +4,9 @@
     "HOME": "Главная",
     "FAQ": "FAQ",
     "CONTACT": "Контакты",
-    "ABOUT": "О Нас"
+    "ABOUT": "О Нас",
+    "SEW": "Компьютерная вышивка",
+    "MAIN_PAGE": "Главная страница"
   },
   "CONTACT":{
     "ABOUT_US":"О нас",
@@ -37,6 +39,6 @@
   },
   "FOOTER": {
     "COPYRIGHTS": "Copyright 2018 Sew.am | All Rights Reserved.",
-    "TEXT": "Найти нас на Facebook"
+    "TEXT": "Нас можно найти в социальных сетях"
   }
 }

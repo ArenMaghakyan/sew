@@ -4,7 +4,9 @@
     "HOME": "Home",
     "FAQ": "FAQ",
     "CONTACT": "Contact",
-    "ABOUT": "About"
+    "ABOUT": "About",
+    "SEW": "Machine embroidery",
+    "MAIN_PAGE": "Main page"
   },
   "CONTACT":{
     "ABOUT_US":"About us",
@@ -37,6 +39,6 @@
   },
   "FOOTER": {
     "COPYRIGHTS": "Copyright 2018 Sew.am | All Rights Reserved.",
-    "TEXT": "Find us on Facebook"
+    "TEXT": "Find us on Social network"
   }
 }
